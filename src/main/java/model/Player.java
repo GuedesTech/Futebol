@@ -1,6 +1,8 @@
 package model;
 
-import lombok.*;
+import lombok.Data;
+import lombok.AllArgsConstructor;
+import lombok.NoArgsConstructor;
 
 @Data // Inclui: @Getter, @Setter, @ToString
 @AllArgsConstructor // Adiciona Construtor com todos os campos
