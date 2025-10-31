@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/Migrations/V1_CREATE_ENTITIES.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/Migrations/V2__Add_Constraints.sql" dialect="PostgreSQL" />
+  </component>
+</project>
